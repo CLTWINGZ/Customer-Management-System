@@ -10,7 +10,6 @@ A production-ready Customer Management System built with Spring Boot, React, and
 ![Customer Directory Dashboard](screenshots/CMS6.png)
 ![Customer Directory Dashboard](screenshots/CMS7.png)
 
-
 ## Features
 - Create, Update, View Customers.
 - Bulk Upload from Excel (supports up to 1,000,000 records asynchronously).
