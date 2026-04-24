@@ -1,0 +1,28 @@
+# Java
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Node
+node_modules/
+dist/
+.npm
+build/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*.DS_Store
+
+# Gemini/Antigravity
+.gemini/
+.antigravity/
+
+# Data
+*.csv
+*.xlsx
+!customers_10000.csv
