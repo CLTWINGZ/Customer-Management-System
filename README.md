@@ -2,7 +2,7 @@
 
 A production-ready Customer Management System built with Spring Boot, React, and MariaDB.
 
-![Customer Directory Dashboard](screenshots/dashboard.png)
+![Customer Directory Dashboard](screenshots/CMS1.png)(screenshots/CMS2.png)(screenshots/CMS3.png)
 
 ## Features
 - Create, Update, View Customers.
